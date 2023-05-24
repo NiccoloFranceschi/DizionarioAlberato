@@ -1,0 +1,11 @@
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\bin\Debug\DizionarioAlberato.exe.config
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\bin\Debug\DizionarioAlberato.exe
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\bin\Debug\DizionarioAlberato.pdb
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.csproj.AssemblyReference.cache
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.Form1.resources
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.Properties.Resources.resources
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.csproj.GenerateResource.cache
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.csproj.CoreCompileInputs.cache
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.exe
+C:\Users\Niccolò Franceschi\Desktop\DizionarioAlberato\DizionarioAlberato\obj\Debug\DizionarioAlberato.pdb
